@@ -15,7 +15,7 @@
 <h1>About Me</h1>
 
 <h3 align="center">
-<b>I am a contributor to: <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="20px"/>&nbsp;&nbsp;&nbsp;<img align="center" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height="20px"/>&nbsp;&nbsp;&nbsp;<img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Cockroach+Labs&color=6933FF&logo=Cockroach+Labs&logoColor=FFFFFF&label=" height="20px"/>&nbsp;&nbsp;&nbsp;<img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=MicroPython&color=239120&logo=MicroPython&logoColor=FFFFFF&label=" height="20px"/><br></b>
+<b>I am a contributor to: <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="20px"/>&nbsp;<img align="center" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height="20px"/>&nbsp;<img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Cockroach+Labs&color=6933FF&logo=Cockroach+Labs&logoColor=FFFFFF&label=" height="20px"/>&nbsp;<img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=MicroPython&color=239120&logo=MicroPython&logoColor=FFFFFF&label=" height="20px"/><br></b>
 </h3>
 <p align="center">
 <b>My <u></u>DeepVoice repository has over 270 stars and contributed research in voice recognition.<br>
