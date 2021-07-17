@@ -1,5 +1,3 @@
-
-<hr>
 <h1 align="center">Machine Learning Engineer <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 </h1>
 <p align="center">
