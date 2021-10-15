@@ -18,7 +18,7 @@
 
 <h1></h1>
 <p align="center">
-<b>My DeepVoice repository has over 270 stars and contributed research in voice recognition.<br>
+<b>My DeepVoice repository has over 300 stars and contributed research in voice recognition.<br>
 <b>My Word2Vec post has been cited in 4 data science papers, including Springer paper.<br>
 I wrote articles here in my <a href="israelg99.github.io">blog</a> (outdated)</b>
 </p>
