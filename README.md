@@ -36,18 +36,20 @@ I wrote articles here in my <a href="israelg99.github.io">blog</a> (outdated)</b
 
 
 
-<p align="leftt">
-✔ Engineer real-time face & object detection, tracking & segmentation on iOS <br>
-✔ Work extensively with TensorFlow, PyTorch & CoreML <br>
-✔ First real-time public YOLOv3 & InsightFace implementation on iOS & Android. <br>
-✔ Engineer state-of-the-art ML and DL models that outperformed all publicly recorded benchmarks. <br>
-✔ Have final interviews at YC and TechStars. One of the youngest people to reach that stage. <br>
-✔ Lead a successful project with DataRobot where my whole team got hired afterward. <br>
-✔ Work with Python's scientific libs - NumPy, Pandas, OpenCV, etc <br>
-✔ Develop using a variety of technologies such as Flask, messaging like RabbitMQ and ZMQ, PostgreSQL and Redis, AWS and Docker. <br>
-✔ Engineer and train YOLO v3, Masked-RCNN, GANs and custom models. <br>
-✔ Develop a microservice/distributed system with workers. <br>
-✔ Engineer embedded firmware and MicroPython implementation using C. <br>
-✔ Work on CI testing pipelines with Jenkins. <br>
-✔ Work, debug and monitor directly on microcontrollers and hardware. <br>
+<p align="left">
+✔ End-to-end MLOps expert - from model architecture, to data pipelines, to serving production, to monitoring. <br>
+✔ I led a successful project for DataRobot where my team got hired afterwards. <br>
+✔ Built a production AI vector engine from scratch using Kubernetes, gRPC, AWS CDK, Lambda, FAISS, etc... <br>
+✔ AWS is my home - deployed hundreds of lambdas, EKS clusters, Fargate tasks, data pipelines, SageMaker, Kinesis, Aurora Serverless, DynamoDB, using AWS CDK, Terraform, AWS SAM, etc... <br>
+✔ Engineered similarity search engine for face recognition, e-commerce, recommendations, clustering, anomaly detection, etc... <br>
+✔ Built CI/CD pipelines using GitHub Actions and infra tools. GitOps is how I roll. <br>
+✔ Constructed data pipelines using DBT, Airflow, Kubeflow, MLFlow, Feast, etc... <br>
+✔ Worked extensively with TensorFlow & PyTorch since day 1. <br>
+✔ Developed and trained OpenAI CLIP, BERT/BART, YOLO v5, GPT and many more. <br>
+✔ Engineered real-time face & object detection, tracking & segmentation on iOS. <br>
+✔ Developed the first real-time public YOLOv3 & InsightFace implementation on iOS & Android. <br>
+✔ Created state-of-the-art ML and DL models that outperformed all publicly recorded benchmarks. <br>
+✔ Had final interviews at YC and TechStars. One of the youngest people to reach that stage. <br>
+✔ Worked with all Python's scientific libs - NumPy, Pandas, OpenCV, spaCy, NLTK etc... <br>
+✔ Engineered embedded firmware for microcontrollers using C and embedded MicroPython into it. <br>
 </p>
