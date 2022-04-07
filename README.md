@@ -20,7 +20,7 @@
 <p align="center">
 <b>My DeepVoice work (repository has over 300 stars) has accelerated research in AI.<br>
 <b>My Word2Vec post has been cited in 4 scientific and academic papers on Springer.<br>
-I wrote articles here in my <a href="israelg99.github.io">blog</a> (outdated)</b>
+I wrote articles in my <a href="israelg99.github.io">blog</a> (outdated)</b>
 </p>
 
 <h3 align="left">
