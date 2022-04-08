@@ -26,7 +26,7 @@ My <a href="israelg99.github.io">blog</a> (outdated)</b>
 </p>
 
 <h3 align="left">
-<b>Favorite Tools:</b>
+<b>Favorite tools:</b>
 </h3>
 
 |![](https://img.shields.io/badge/Python-264653?style=for-the-badge&logo=python&logoColor=white)|![](https://img.shields.io/badge/ClickHouse-E9C46A?style=for-the-badge&logo=Clickhouse&logoColor=black)|![](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=FCAA67&logo=C%2B%2B&logoColor=black&label=)|![](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=FFFFC7&logo=Kubernetes&logoColor=black&label=)|![](https://img.shields.io/static/v1?style=for-the-badge&message=Kubeflow&color=473335&logo=cncf&logoColor=FFFFFF&label=)
