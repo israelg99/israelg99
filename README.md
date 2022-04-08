@@ -2,7 +2,7 @@
 </h1>
 
 <h3 align="center">
-<b>A contributor to: <img align="center" src="https://img.shields.io/badge/TensorFlow-3D405B?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25px"/>&nbsp;<img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Cockroach+Labs&color=2A9D8F&logo=Cockroach+Labs&logoColor=FFFFFF&label=" height="25px"/>&nbsp;<img align="center" src="https://img.shields.io/badge/Keras-E9C46A?style=for-the-badge&logo=Keras&logoColor=black" height="25px"/>&nbsp;<img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=MicroPython&color=E76F51&logo=MicroPython&logoColor=FFFFFF&label=" height="25px"/><br></b>
+<b>A contributor to: <img align="center" src="https://img.shields.io/badge/TensorFlow-3D405B?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25px"/>&nbsp;<img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Cockroach+Labs&color=2A9D8F&logo=Cockroach+Labs&logoColor=FFFFFF&label=" height="25px"/>&nbsp;<img align="center" src="https://img.shields.io/badge/Keras-E9C46A?style=for-the-badge&logo=Keras&logoColor=black" height="25px"/>&nbsp;<img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=MicroPython&color=E76F51&logo=MicroPython&logoColor=FFFFFF&label=" height="25px"/>&nbsp;<img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=FAISS&color=FFFFC7&logo=Opencv&logoColor=black&label=" height="25px"/><br></b>
 </h3>
 
 <!-- <p align="center">
