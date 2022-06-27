@@ -18,7 +18,6 @@
 <h1></h1>
 <p align="center">
 <b>My work is serving customers such as Bank of America, Wells Fargo, US Army, Citi, Disney, etc...<br>
-I led a successful project for DataRobot where my team got hired afterward.<br>
 My Word2Vec post has been cited in 4 scientific and academic papers on Springer.<br>
 My <a href="israelg99.github.io">blog</a> (outdated)</b>
 </p>
@@ -30,23 +29,3 @@ My <a href="israelg99.github.io">blog</a> (outdated)</b>
 |![](https://img.shields.io/badge/Python-264653?style=for-the-badge&logo=python&logoColor=white)|![](https://img.shields.io/badge/ClickHouse-E9C46A?style=for-the-badge&logo=Clickhouse&logoColor=black)|![](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=FCAA67&logo=C%2B%2B&logoColor=black&label=)|![](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=FFFFC7&logo=Kubernetes&logoColor=black&label=)|![](https://img.shields.io/static/v1?style=for-the-badge&message=Kubeflow&color=473335&logo=cncf&logoColor=FFFFFF&label=)
 |---|---|---|---|---|
 |![](https://img.shields.io/static/v1?style=for-the-badge&message=RocksDB&color=F4A261&logo=rocksdb&logoColor=black&label=)|![](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=B0413E&logo=pytorch&logoColor=FFFFFF&label=)|![](https://img.shields.io/badge/AWS-2A9D8F?style=for-the-badge&logo=Amazon&logoColor=white)|![](https://img.shields.io/static/v1?style=for-the-badge&message=FAISS&color=548687&logo=OpenCV&logoColor=FFFFFF&label=)|![](https://img.shields.io/static/v1?style=for-the-badge&message=Arrow&color=E76F51&logo=apache&logoColor=white&label=)
-
-<p align="left">
-✔ Deployed scalable cloud-native production - Kubernetes, Kafka, service mesh, Prometheus, Grafana, gRPC, Istio, Envoy, Kinesis, Aurora Serverless, hundreds of lambdas, Step Functions, S3, DynamoDB, CDK, Terraform, etc…
-
-✔ Built microservices which generated millions of dollars in revenue - each with authentication layer, cache layer (Redis), storage layer, live monitoring, load-testing, load-balancer, reverse proxy, etc…
-
-✔ Led a team to build an end-to-end MLOps platform - from model architecture, to data pipelines, to feature stores, to serving production, to monitoring. Deployed over 60 models in production serving high-profile customers.
-
-✔ Developed staging-production pipelines with CI/CD using GitHub Actions and Argo. All in GitOps spirit.
-
-✔ Constructed data and ML pipelines using DBT, Airflow, Kubeflow, MLFlow, TFX, TorchServe, Feast, etc... including a production vector engine.
-
-✔ Added functionality to databases such as Clickhouse and CockroachDB - worked on SQL parser, data & column types, optimizations, etc...
-
-✔ Engineered similarity search engine for face recognition, e-commerce, recommendations, clustering, anomaly detection, etc...
-
-✔ An entrepreneur at heart - I was a TechStars HackStar where I helped many startups, as well as I passed final interviews at YC.
-
-✔ Engineered embedded firmware for microcontrollers using C and embedded MicroPython.
-</p>
