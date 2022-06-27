@@ -18,7 +18,7 @@
 <h1></h1>
 <p align="center">
 <b>My work is serving customers such as Bank of America, Wells Fargo, US Army, Citi, Disney, etc...<br>
-My Word2Vec post has been cited in 4 scientific and academic papers on Springer.<br>
+My Word2Vec work has been cited in 4 scientific and academic papers on Springer.<br>
 My <a href="israelg99.github.io">blog</a> (outdated)</b>
 </p>
 
